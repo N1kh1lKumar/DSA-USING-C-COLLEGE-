@@ -53,8 +53,7 @@ The reversal is done by repeatedly taking the last digit of `n` (using `n % 10`)
 In the `main` function, the program prompts the user to enter a number, calls the `reverseNumber` function with the input, and then prints the reversed number.
 The time complexity of this program is O(d), where d is the number of digits in the input number, and
 the space complexity is O(1) since we are using only a constant amount of extra space for the variables.  
-
-
 */
+
 
 
