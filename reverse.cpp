@@ -1,4 +1,4 @@
-//problem desccription
+//problem description
 /*
 Write a C++ program that takes an integer input from the user and reverses the digits of the number.
  For example, if the user inputs 1234, the program should output 4321.
