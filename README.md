@@ -22,4 +22,12 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ✔ Arrays  
 ✔ Linked List  
 ✔ Graphs  
-✔ DP
+✔ DP(Dynamic Programminng)
+
+## Concept of Object oriented Programming(OOPs)
+- Encapsulation
+- Abstraction
+- Inheritance
+- polymorphism
+
+
