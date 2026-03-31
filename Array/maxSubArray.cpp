@@ -1,6 +1,6 @@
 //problrm description : Given an integer array nums, find the subarray with the largest sum, and return its sum  
 // leetcode link : https://leetcode.com/problems/maximum-subarray/
-//using Moore's algorithm
+//using Kadane's algo 
 #include<iostream>
 #include<vector>
 #include <climits>
